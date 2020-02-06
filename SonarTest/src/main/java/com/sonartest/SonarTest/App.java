@@ -13,7 +13,7 @@ public class App
 {
 	
     public App() {
-		System.out.println("Hi");
+		//System.out.println("Hi");
 	}
     
     public void test() {
@@ -24,7 +24,7 @@ public class App
 
 	public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello shibashankar.. Welcome here..." );
         App ap = new App();
         ap.test();
         
